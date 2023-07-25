@@ -15,3 +15,6 @@ pacman -S mingw64/mingw-w64-x86_64-SDL2_image
 pacman -S mingw64/mingw-w64-x86_64-SDL2_ttf
 pacman -S mingw64/mingw-w64-x86_64-SDL2_net
 pacman -S mingw64/mingw-w64-x86_64-cmake make
+
+; one line
+pacman -S git mingw-w64-x86_64-toolchain mingw64/mingw-w64-x86_64-SDL2 mingw64/mingw-w64-x86_64-SDL2_mixer mingw64/mingw-w64-x86_64-SDL2_image mingw64/mingw-w64-x86_64-SDL2_ttf mingw64/mingw-w64-x86_64-SDL2_net mingw64/mingw-w64-x86_64-cmake make
